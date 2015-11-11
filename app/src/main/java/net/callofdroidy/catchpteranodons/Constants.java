@@ -1,4 +1,4 @@
-package net.callofdroidy.getpteranodon;
+package net.callofdroidy.catchpteranodons;
 
 /**
  * Created by admin on 09/11/15.
